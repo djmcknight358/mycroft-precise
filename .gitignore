@@ -11,18 +11,9 @@ __pycache__/
 *.egg-info/
 
 *.pyc
-*.pb
 *.params
-*.net
 *.json
-*.pbtxt
 *.txt
-*.wav
-
-# Data folders
-/*/wake-word/
-/*/not-wake-word/
-/*/test/
 
 !requirements.txt
 
